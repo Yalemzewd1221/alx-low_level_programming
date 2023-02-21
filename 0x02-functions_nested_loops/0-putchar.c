@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- *emm
+ * main - Entry point
  *
- * That may: mister menilik(emperor)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
