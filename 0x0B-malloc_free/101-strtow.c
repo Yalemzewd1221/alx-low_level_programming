@@ -41,7 +41,8 @@ int count_word(char *s)
 												else if (flag == 0)
 		
 															{
-		flag = 1;
+		
+																			flag = 1;
 		
 																						w++;
 		
@@ -93,8 +94,9 @@ char **strtow(char *str)
 		
 	matrix = (char **) malloc(sizeof(char *) * (words + 1));
 		
-	if (matrix == NULL
-return (NULL);
+	if (matrix == NULL)
+		
+		return (NULL);
 		
 
 		
